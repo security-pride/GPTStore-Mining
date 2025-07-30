@@ -41,7 +41,7 @@ Our analysis has revealed several key security vulnerabilities within the GPT St
 - Malicious Redirects
 - Policy Violations
 
-To assess these risks, we conducted security tests on a subset of GPT models. The prompts used in our tests, as well as the results, can be found in the [Security Risk Analysis/Security Risk](Security%20Risk%20Analysis/Security%20Risk) folder. These tests helped highlight vulnerabilities and provide insights into potential improvements for platform security.
+To assess these risks, we conducted security tests on a subset of GPT models. The prompts used in our tests, as well as the results, can be found in the [Security Risk](Security%20Risk) folder. These tests helped highlight vulnerabilities and provide insights into potential improvements for platform security.
 
 Our analysis identified and classified several types of policy violations within the GPT Store ecosystem. These violations were categorized into six distinct types, each representing a particular area of concern. The categories are as follows:
 
@@ -52,7 +52,7 @@ Our analysis identified and classified several types of policy violations within
 5. Drug
 6. Offensive Talk
 
-Each violation type is denoted by a unique number, as mentioned above. The detailed results, including the models and their corresponding violations, can be found in the [Security Risk Analysis/Policy Violation](Security%20Risk%20Analysis/Policy%20Violation) folder.
+Each violation type is denoted by a unique number, as mentioned above. The detailed results, including the models and their corresponding violations, can be found in the [Security Risk](Security%20Risk) folder.
 
 ## User Study
 
